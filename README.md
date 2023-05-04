@@ -4,6 +4,10 @@
 
 First and foremost, take a look at [ServerlessLand](https://s12d.com/serverless-learning)!
 
+## Cool Event-driven Architecture examples
+
+- [Serverlesspresso](https://serverlessland.com/reinvent2021/serverlesspresso), [re:Invent 2022 Session](https://www.youtube.com/watch?v=qs0U0LdNkV0)
+
 ## Books
 
 - Vaughn Vernon's [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
